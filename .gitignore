@@ -3,3 +3,5 @@ bin
 build
 .gradle
 local-build-repo
+.idea
+local.properties
